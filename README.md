@@ -14,8 +14,8 @@ I’m a Computer Science Major at the University of Utah with an emphasis in Ele
 ## Skills
 
 - **Programming Languages**: Python, Java, C#, C++, SQL
-- **Tools & Technologies**: Unity, Unreal Engine, Docker, Kubernetes, Kafka, SteamVR, XR Interaction Toolkit
-- **Specialties**: Procedural Level Generation, Game Design, VR Development, Performance Optimization
+- **Tools & Technologies**: Unity, Unreal Engine, Docker, Kubernetes, Kafka, and more...
+- **Specialties**: Game Design, VR Development, Performance Optimization, Back-end development, and more...
 
 ## Featured Repositories
 
