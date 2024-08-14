@@ -7,7 +7,7 @@ I’m a Computer Science Major at the University of Utah with an emphasis in Ele
 ## What I’m Working On
 
 - **VR Projects**: Developing immersive VR experiences with physics-based motion and advanced interaction systems.
-- **Sellable VR Products**: Developing assets for VR Games with the intent on selling them with high modularity and customization for end-users.
+- **VR Products**: Currently Developing sellable Unity Assets for "VRChat". Code is privatized, product will eventually be showcased.
 - **Various Software Engineering Projects**: Building and maintaining Java-based applications, enhancing performance with modern tools and methodologies.
 - **LLM Softwares**: Currently working on a personal Large Language Model (LLM) to see what all the fuss is about.
 
