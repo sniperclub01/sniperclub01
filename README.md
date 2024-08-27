@@ -6,10 +6,10 @@ I’m a Computer Science Major at the University of Utah with an emphasis in Ele
 
 ## What I’m Working On
 
-- **VR Projects**: Developing immersive VR experiences with physics-based motion and advanced interaction systems.
 - **VR Products**: Currently Developing sellable Unity Assets for "VRChat". Code is privatized, product will eventually be showcased.
 - **Various Software Engineering Projects**: Building and maintaining Java-based applications, enhancing performance with modern tools and methodologies.
 - **LLM Softwares**: Currently working on a personal Large Language Model (LLM) to see what all the fuss is about.
+- **Party RSVP Webpage**: Party RSVP/Hosting webservice. Working with Node.js and Angular systems on an S3 Bucket and RESTful API designs. MongoDB for database management and Twilio for notifications.
 
 ## Skills
 
