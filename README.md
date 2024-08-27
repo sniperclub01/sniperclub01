@@ -13,7 +13,7 @@ I’m a Computer Science Major at the University of Utah with an emphasis in Ele
 
 ## Skills
 
-- **Programming Languages**: Python, Java, C#, C++, SQL
+- **Programming Languages**: Java, C#, C++, SQL, Node.js, Angular, Python
 - **Tools & Technologies**: Unity, Unreal Engine, Docker, Kubernetes, Kafka, and more...
 - **Specialties**: Game Design, VR Development, Performance Optimization, Back-end development, and more...
 
