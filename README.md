@@ -26,6 +26,6 @@ I’m a Computer Science Major at the University of Utah with an emphasis in Ele
 ## How to Reach Me
 
 Feel free to connect with me through my LinkedIn profile if you have any questions or opportunities to discuss:
-**LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/caydenjensen)
+[**LinkedIn**](https://www.linkedin.com/in/caydenjensen)
 
 Thank you for visiting my profile!
