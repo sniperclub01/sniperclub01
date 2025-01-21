@@ -2,7 +2,7 @@
 
 ## About Me
 
-I’m a Computer Science Major at the University of Utah with an emphasis in Electronic Arts & Engineering. Currently working with VR systems and AI Technologies for fun!
+I’m a Computer Science Major with an emphasis in Electronic Arts & Engineering. Currently working with VR systems and AI Technologies for fun!
 
 ## What I’m Working On
 
@@ -13,8 +13,8 @@ I’m a Computer Science Major at the University of Utah with an emphasis in Ele
 
 ## Skills
 
-- **Programming Languages**: Java, C#, C++, SQL, Node.js, Angular, Python
-- **Tools & Technologies**: Unity, Unreal Engine, Docker, Kubernetes, Kafka, and more...
+- **Programming Languages**: Java, C#, C++, SQL
+- **Tools & Technologies**: Unity, Unreal Engine, Git, Docker, Kubernetes, Kafka, and more...
 - **Specialties**: Game Design, VR Development, Performance Optimization, Back-end development, and more...
 
 ## Featured Repositories
