@@ -8,7 +8,7 @@ I’m a Computer Science Major with an emphasis in Electronic Arts & Engineering
 - **VR RTS Game** - RTS game utilizing the SteamVR Plugin in Unity. Multiplayer Networking through Steamworks.NET
 - **VR Products**: Currently Developing sellable Unity Assets for the game "VRChat". Code is privatized, product will eventually be showcased when Soba SDK is released.
 - **LLM Softwares**: Currently working on a personal Large Language Model (LLM) to see what all the fuss is about.
-- **Party RSVP Webpage**: A web-based RSVP system built with React, JavaScript, HTML, and CSS, hosted on AWS S3 with a RESTful API backend. Uses MongoDB for database management and integrates Twilio for SMS notifications. Designed for seamless event management, allowing guests to RSVP, receive confirmations, and get updates in real-time.
+- **Party RSVP Webpage**: A web-based RSVP system built with React, TypeScript, hosted on AWS S3 utilizing RESTful APIs on the backend. MongoDB for database management and integrates Twilio for SMS notifications. Designed for seamless event management, allowing guests to RSVP, receive confirmations, and get updates in real-time.
 
 ## Skills
 
@@ -25,6 +25,6 @@ I’m a Computer Science Major with an emphasis in Electronic Arts & Engineering
 ## How to Reach Me
 
 Feel free to connect with me through my LinkedIn profile if you have any questions or opportunities to discuss:
-[**LinkedIn**](https://www.linkedin.com/in/caydenjensen)
+[**LinkedIn**](https://www.linkedin.com/in/cayden-jensen-0754042a0/)
 
 Thank you for visiting my profile!
