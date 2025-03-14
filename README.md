@@ -7,8 +7,8 @@ I’m a Computer Science Major with an emphasis in Electronic Arts & Engineering
 ## What I’m Working On
 - **VR RTS Game**: RTS game utilizing the SteamVR Plugin in Unity. Multiplayer Networking through Steamworks.NET
 - **VR Products**: Currently Developing sellable Unity Assets for the game "VRChat". Code is privatized, product will eventually be showcased when Soba SDK is released.
-- **LLM Softwares**: Currently working on a personal Large Language Model (LLM) to see what all the fuss is about.
 - **Party RSVP Webpage**: A web-based RSVP system built with React, TypeScript, hosted on AWS S3 utilizing RESTful APIs on the backend. MongoDB for database management and integrates Twilio for SMS notifications. Designed for seamless event management, allowing guests to RSVP, receive confirmations, and get updates in real-time.
+- **Real-Time Chat App**: WebSocket-based chat with authentication and group channels. React + Socket.IO, Node.js, MongoDB, Redis
 
 ## Published Game Titles
 - [**POGO ROGUE!**](https://store.steampowered.com/app/2870280/Pogo_Rogue/): Developed randomized level generator, an image-to-level convertor for Game Designers, as well as level object logic.
