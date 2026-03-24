@@ -5,7 +5,7 @@
 I’m a Computer Science Major with an emphasis in Electronic Arts & Engineering. Currently working with VR systems and AI Technologies for fun!
 
 ## What I’m Working On
-- **VR RTS Game**: RTS game utilizing the SteamVR Plugin in Unity. Multiplayer Networking through Steamworks.NET
+- **Eternal Esports Club (EEC)**: Developing EEC's replay system for post-match results screen, bugfixes, UI style refactorization, etc. Can be found at: https://eternalesports.club/
 - **VR Products**: Currently Developing sellable Unity Assets for the game "VRChat". Code is privatized, product will eventually be showcased when Soba SDK is released.
 - **Party RSVP Webpage**: A web-based RSVP system built with React, TypeScript, hosted on AWS S3 utilizing RESTful APIs on the backend. MongoDB for database management and integrates Twilio for SMS notifications. Designed for seamless event management, allowing guests to RSVP, receive confirmations, and get updates in real-time.
 - **Real-Time Chat App**: WebSocket-based chat with authentication and group channels. React + Socket.IO, Node.js, MongoDB, Redis
